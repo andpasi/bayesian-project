@@ -1,5 +1,5 @@
 # This code is implementing the paper:
-# Gibbs Sampling for Bayesian Finite Mixtures of Normal Distributiobs - Cristina Mollica, Luca Tardella
+# Gibbs Sampling for Bayesian Finite Mixtures of Normal Distributions - Cristina Mollica, Luca Tardella
 # https://web.uniroma1.it/memotef/sites/default/files/file%20lezioni/Lezione3_CMollica.pdf
 
 
