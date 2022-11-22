@@ -162,10 +162,6 @@ gibbs <- function(x, niter, C, alpha_0, mu_0, tau_0, a_0, b_0) {
     mu_GS[i, ] <- mu
   }
 
-  x_seq <- seq(min(x), max(x), by = 0.001)
-  title <- "Predicted mixture of gaussians"
-  plot_mixture(x_seq, w, mu, tau, title)
-
   return(mu_GS)
 }
 
